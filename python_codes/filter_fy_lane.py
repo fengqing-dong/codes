@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # coding=utf-8
+
+"""
+test
+"""
+
 from collections import Counter
 import re
 import argparse
